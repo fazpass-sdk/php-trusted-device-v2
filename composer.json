@@ -1,0 +1,19 @@
+{
+    "name": "fazpass/phpseamless",
+    "description": "Fazpass library to support seamless technology",
+    "type": "library",
+    "license": "Mit",
+    "autoload": {
+        "psr-4": {
+            "Fazpass\\Phpseamless\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Fazpass",
+            "email": "fazpassdevelopment@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
